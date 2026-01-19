@@ -22,6 +22,10 @@ apskaičiuoti galutinį pažymį pagal vidurkį arba medianą ir išsaugoti rezu
 4. Paspauskite „Skaičiuoti“
 5. Išsaugokite rezultatus faile
 
+## Technologijos
+Projektas realizuotas naudojant C# Windows Forms (.NET Framework).
+Formų kūrimas, objektų programavimas, .NET klasės, resursų failai ir darbas su failais realizuoti nenaudojant C++/CLI.
+
 ## Autorius
 Brigita Vičiūnienė  
 Vilniaus verslo kolegija (VVK)  
